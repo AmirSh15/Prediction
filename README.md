@@ -21,4 +21,4 @@ You can also see the variation of forgetting factor and number of modes:
 ![picture1](https://cloud.githubusercontent.com/assets/27130785/26144638/daa36a9a-3afe-11e7-8c8c-f2875b2d0dea.png)
 
 
-I've used this method to extract feature from stock's timeseries then feed them into a deep network, for more information read my [master thesis]()
+I've used this method to extract feature from stock's timeseries then feed them into a deep network, for more information read my [master thesis](https://1drv.ms/b/s!AnAJMkjgFIzdzA9Iy9R4jo-FboQv?e=4N4rgt)
