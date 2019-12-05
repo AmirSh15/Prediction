@@ -9,7 +9,7 @@ For example when your data consist of some frequencies like below signal:
 
 #S(t)=40cos(9(t−16))+50cos(13(t−26))−10cos(25(t−36))+80sin(3(t−46))+10
 
-The output of this code may be:
+The frequencies were found over time:
 
 
 ![picture2](https://cloud.githubusercontent.com/assets/27130785/26144348/b25b5d6e-3afd-11e7-9e18-7aa1debd3e3b.png)
